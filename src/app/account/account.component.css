@@ -1,0 +1,16 @@
+.fieldset {
+		position: relative;
+		border: 1px solid black;
+		background-color: #dfe4ee;
+		margin: 40px 12px 12px 12px;
+		padding: 20px 0px 15px 0px;
+	}
+
+	.legend {
+		position: absolute;
+		margin: -32px 0px 0px 12px;
+		padding: 0px 3px 0px 3px;
+		/*background-color: #dfe4ee;*/;
+		font-weight: bold;
+		font-size: 115%;
+	}
